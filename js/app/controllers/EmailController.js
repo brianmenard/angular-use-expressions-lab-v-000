@@ -12,3 +12,4 @@ function EmailController($filter) {
 angular
     .module('app')
     .controller('EmailController', EmailController);
+ 
